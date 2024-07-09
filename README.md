@@ -19,9 +19,9 @@ You may also notice that the vehicles will initially be detected and the counter
 Python packages to be installed
 Tested on Python 3.10
 ```
-* Cvzone 1.5.6
+* Cvzone (>=1.5.6)
 * Ultralytics
-* OpenCV (4.9.0.80)
+* OpenCV (>=4.9.0.80)
 * Numpy
 ```
 
