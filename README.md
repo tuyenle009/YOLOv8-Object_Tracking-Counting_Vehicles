@@ -49,7 +49,7 @@ pip install ultralytics
 
 ## Implementation details
 
-#### Overview
+### Overview
 
 This script performs object detection and tracking on a video feed using the YOLO (You Only Look Once) model and OpenCV. The goal is to detect specific objects (like cars, trucks, buses, and motorbikes), track them, and count how many times they cross a predefined line in the video.
 
