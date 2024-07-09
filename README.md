@@ -7,8 +7,9 @@ This project aims to count every vehicle (motorcycle, bus, car, cycle, truck, tr
 
 
 ## Working 
+<p style="text-align: center;>
 ![counting_vehicle](https://github.com/tuyenle009/YOLOv8-Object_Tracking-Counting_Vehicles/assets/128459950/e1841e92-feb4-479c-8c82-b6231dbff60c)
-
+</p>
 As shown in the image above, when the vehicles in the frame are detected, they are counted. After getting detected once, the vehicles get tracked and do not get re-counted by the algorithm. 
 
 You may also notice that the vehicles will initially be detected and the counter increments, but for a few frames, the vehicle is not detected, and then it gets detected again. As the vehicles are tracked, the vehicles are not re-counted if they are counted once. 
