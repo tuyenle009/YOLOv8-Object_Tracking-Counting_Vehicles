@@ -17,34 +17,12 @@ You may also notice that the vehicles will initially be detected and the counter
 ## Prerequisites
 
 Python packages to be installed
-
+Tested on Python 3.10
 ```
-* cvzone (1.6.1)
-* ultralytics
-* openCV
-* numpy
-```
-
-## Dependencies for using CPU for computations
-* Python3 (Tested on Python 3.10)
-```
-sudo apt-get upgrade python3
-```
-* OpenCV or above(Tested on OpenCV 4.9.0.80)
-```
-pip install opencv-python
-```
-* Cvzone (Tested on cvzone 1.5.6)
-```
-pip install cvzone
-```
-* Numpy
-```
-pip install numpy
-```
+* Cvzone 1.5.6
 * Ultralytics
-```
-pip install ultralytics
+* OpenCV (4.9.0.80)
+* Numpy
 ```
 
 ## Implementation details
