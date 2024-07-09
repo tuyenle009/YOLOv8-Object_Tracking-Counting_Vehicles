@@ -4,10 +4,12 @@
 You Only Look Once (YOLO) is a CNN architecture for performing real-time object detection. The algorithm applies a single neural network to the full image, and then divides the image into regions and predicts bounding boxes and probabilities for each region. For more detailed working of YOLO algorithm, please refer to the [YOLO paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf). 
 
 This project aims to count every vehicle (motorcycle, bus, car, cycle, truck, train) detected in the input video using YOLOv8 object-detection algorithm.
+![a](https://github.com/tuyenle009/YOLOv8-Object_Tracking-Counting_Vehicles/assets/128459950/8743972d-cd68-4b00-ad5c-2f3a2598b88c)
 
 ## Working 
 <p align="center">
-![a](https://github.com/tuyenle009/YOLOv8-Object_Tracking-Counting_Vehicles/assets/128459950/dba9b50d-ae94-4739-9082-a8e3f6187bf0)
+![a](https://github.com/tuyenle009/YOLOv8-Object_Tracking-Counting_Vehicles/assets/128459950/33c4650c-0004-49f6-8fd6-ddc89940e259)
+
 
 </p>
 As shown in the image above, when the vehicles in the frame are detected, they are counted. After getting detected once, the vehicles get tracked and do not get re-counted by the algorithm. 
