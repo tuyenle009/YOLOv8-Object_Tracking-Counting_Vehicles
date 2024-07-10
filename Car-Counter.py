@@ -13,7 +13,7 @@ from tracker import *
 cap = cv2.VideoCapture("Images_Videos/vehicles.mp4")
 
 # Load the YOLO model with specific weights
-model = YOLO("../Yolo-Weights/yolov8n.pt")
+model = YOLO("yolov8n.pt")
 
 # List of class names that the YOLO model can detect
 classNames = [
