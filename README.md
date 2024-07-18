@@ -1,6 +1,6 @@
 # Yolo Vehicle Counter
 
-## Overview
+## Introduction
 Introducing our latest project that leverages the cutting-edge YOLOv8 object-detection algorithm to accurately count vehicles in real-time from video input. This advanced system detects and tracks various vehicle types, including cars, buses, and trucks, ensuring precise monitoring and data collection. By integrating a YOLO model, customized tracking algorithms, and graphical overlays, our solution provides an efficient and visually engaging method to analyze traffic patterns and vehicle counts. Ideal for traffic management, research, and urban planning, this project demonstrates the powerful application of deep learning in real-world scenarios.
 
 This project aims to count every vehicle (motorcycle, bus, car, truck, train) detected in the input video using YOLOv8 object-detection algorithm.
